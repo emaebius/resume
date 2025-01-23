@@ -1,4 +1,4 @@
-# **Blaster
+# **Blaster**
 - Email: blaster@mines.edu
 - Location: Golden, CO
 
