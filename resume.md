@@ -1,6 +1,6 @@
-# Blaster
-- Email: Blaster@mines.edu
+## Blaster
+- Email: blaster@mines.edu
 - Location: Golden, CO
 
 # Education
-- Colorado School of Mines
+- PhD. Geophysics, Colorado School of Mines (2027)
